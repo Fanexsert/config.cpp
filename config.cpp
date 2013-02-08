@@ -1558,16 +1558,6 @@ class CfgVehicles {
 	class US_Soldier_Engineer_EP1: Banned {};
 	class US_Soldier_Pilot_EP1: Banned {};
 	class US_Soldier_Crew_EP1: Banned {};
-	class US_Delta_Force_EP1: Banned {};
-	class US_Delta_Force_TL_EP1: Banned {};
-	class US_Delta_Force_Medic_EP1: Banned {};
-	class US_Delta_Force_SD_EP1: Banned {};
-	class US_Delta_Force_MG_EP1: Banned {};
-	class US_Delta_Force_AR_EP1: Banned {};
-	class US_Delta_Force_Night_EP1: Banned {};
-	class US_Delta_Force_Marksman_EP1: Banned {};
-	class US_Delta_Force_M14_EP1: Banned {};
-	class US_Delta_Force_Air_Controller_EP1: Banned {};
 	class US_Pilot_Light_EP1: Banned {};
 	class Drake: Banned {};
 	class Herrera: Banned {};
